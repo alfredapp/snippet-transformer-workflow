@@ -1259,7 +1259,7 @@ Alternatively, search for CSV or Snippet Collection files via the `csvsnip` and 
 		</dict>
 	</array>
 	<key>version</key>
-	<string></string>
+	<string>2023.1</string>
 	<key>webaddress</key>
 	<string>https://github.com/alfredapp/snippet-transformer-workflow/</string>
 </dict>
