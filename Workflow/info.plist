@@ -1,0 +1,1266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string>com.alfredapp.vitor.snippettransformer</string>
+	<key>connections</key>
+	<dict>
+		<key>16BD427D-AAD0-4F16-BFEB-561DF2281206</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>06715BDC-92C8-4E8C-A1B7-ED560B7C9953</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>41809139-BDE4-451E-AC89-B8BB4B2F7105</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>FAFED4F2-DC4A-4995-8049-56240B8CD95D</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>4A0A8180-B357-410D-839F-72B4ECC21BA8</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>9AF2605F-DA68-4461-A6FF-A914F0D82BD0</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>4B91B3BB-FAC3-4A58-8EB5-6B4838AC1B79</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>16BD427D-AAD0-4F16-BFEB-561DF2281206</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>5AF1A471-6EFF-4E14-876E-BD49C23C2B98</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>EAA88D22-D7B5-4391-8B2C-C546254D1108</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>7D7F733B-45AF-4640-B4FC-43AF53717735</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>5AF1A471-6EFF-4E14-876E-BD49C23C2B98</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>872D60B7-B853-4C8E-9F1E-07C18B9CCD68</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>DA8AFA7F-1098-4512-B08D-3F3DC9601ABF</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>8CFBB2ED-D196-4AE6-B535-E5264C0A630D</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>FAFED4F2-DC4A-4995-8049-56240B8CD95D</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>9AF2605F-DA68-4461-A6FF-A914F0D82BD0</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>9D3C78F8-ECE7-4A2E-A080-4F43CC73B4EA</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>645EB881-D79C-4295-AC53-2C40AC675F9D</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>E6514383-F01C-419D-8AC5-BD0BFA3F0C2A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>9D3C78F8-ECE7-4A2E-A080-4F43CC73B4EA</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>D6B3B49E-5412-4E65-B8E3-D62D5BC6C564</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>9E795AD1-A932-44A4-A956-40CCAAED28CB</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>5AF1A471-6EFF-4E14-876E-BD49C23C2B98</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>B82EF9C0-0FA7-4A78-A96E-757B8D71BA1B</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E6514383-F01C-419D-8AC5-BD0BFA3F0C2A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>D6B3B49E-5412-4E65-B8E3-D62D5BC6C564</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>7E1EA541-5E8A-48C1-8FBA-FB2EA7C0122C</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>0ABF1CBC-1286-46C3-BCF9-801565E59441</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>06715BDC-92C8-4E8C-A1B7-ED560B7C9953</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>DA8AFA7F-1098-4512-B08D-3F3DC9601ABF</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>B82EF9C0-0FA7-4A78-A96E-757B8D71BA1B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>2889189F-2999-4493-A93A-B368623E2F22</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>4B91B3BB-FAC3-4A58-8EB5-6B4838AC1B79</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>E6514383-F01C-419D-8AC5-BD0BFA3F0C2A</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>4C2E0AF3-3C18-41AA-8454-BE9175FED034</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>EAA88D22-D7B5-4391-8B2C-C546254D1108</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>4A0A8180-B357-410D-839F-72B4ECC21BA8</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>FAFED4F2-DC4A-4995-8049-56240B8CD95D</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>872D60B7-B853-4C8E-9F1E-07C18B9CCD68</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+	<key>createdby</key>
+	<string>Vítor Galvão</string>
+	<key>description</key>
+	<string>Import and Export Alfred Snippet Collections to and from CSV</string>
+	<key>disabled</key>
+	<false/>
+	<key>name</key>
+	<string>Snippet Transformer</string>
+	<key>objects</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>// Helpers
+function envVar(varName) {
+  return $.NSProcessInfo
+    .processInfo
+    .environment
+    .objectForKey(varName).js
+}
+
+function runCommand(...arguments) {
+  const task = $.NSTask.alloc.init
+
+  task.executableURL = $.NSURL.alloc.initFileURLWithPath("/usr/bin/env")
+  task.arguments = arguments
+  task.launchAndReturnError(false)
+
+  task.waitUntilExit
+}
+
+function writeFile(path, text) {
+  $.NSString
+    .alloc
+    .initWithUTF8String(text)
+    .writeToFileAtomicallyEncodingError(path, true, $.NSUTF8StringEncoding, undefined)
+}
+
+// Main
+function run(argv) {
+  const origData = JSON.parse(argv[0])
+  const fileManager = $.NSFileManager.defaultManager
+  const collectionName = $(envVar("input_file")).stringByDeletingPathExtension.lastPathComponent.js
+  const outDir = $("~/Desktop").stringByExpandingTildeInPath.js
+  const outFile = `${outDir}/${collectionName}.alfredsnippets`
+  const tmpDir = fileManager.URLForDirectoryInDomainAppropriateForURLCreateError(
+    $.NSItemReplacementDirectory,
+    $.NSUserDomainMask,
+    outDir,
+    true,
+    undefined).path.js
+
+  // Abort if output file exists
+  if (fileManager.fileExistsAtPath(outFile)) {
+    console.log(`File exists: ${outFile}`)
+
+    return JSON.stringify({ alfredworkflow: {
+      arg: outFile,
+      variables: { file_exists: true }
+    }})
+  }
+
+  // Generate snippet JSON files
+  origData.forEach(item =&gt; {
+    const itemUID = $.NSUUID.UUID.UUIDString.js
+
+    const snippetObj = {
+      alfredsnippet: {
+        snippet: item["snippet"],
+        uid: itemUID,
+        name: item["name"],
+        keyword: item["keyword"]
+      }
+    }
+
+    writeFile(`${tmpDir}/${itemUID}.json`, JSON.stringify(snippetObj))
+  })
+
+  runCommand("/usr/bin/ditto", "-ck", tmpDir, outFile)
+
+  return JSON.stringify({ alfredworkflow: {
+    arg: outFile,
+    variables: { file_exists: false }
+  }})
+}</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>7</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>4A0A8180-B357-410D-839F-72B4ECC21BA8</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>readonly table_order="$(printf "'%s' TEXT, " "${(s:,:)csv_fields_order}" | /usr/bin/sed 's/, $//')"
+
+/usr/bin/sqlite3 -csv ':memory:' "CREATE TABLE snippets(${table_order})" '.import /dev/stdin snippets' -json "SELECT * from snippets" &lt; "${1}"</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>11</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>EAA88D22-D7B5-4391-8B2C-C546254D1108</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>openwith</key>
+				<string></string>
+				<key>sourcefile</key>
+				<string></string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openfile</string>
+			<key>uid</key>
+			<string>7E1EA541-5E8A-48C1-8FBA-FB2EA7C0122C</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<true/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>{query}</string>
+				<key>title</key>
+				<string>Saved Alfred Snippets Collection</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>9D3C78F8-ECE7-4A2E-A080-4F43CC73B4EA</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>anchorfields</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>daterange</key>
+				<integer>0</integer>
+				<key>fields</key>
+				<array>
+					<dict>
+						<key>field</key>
+						<string>kMDItemDisplayName</string>
+						<key>not</key>
+						<false/>
+						<key>split</key>
+						<true/>
+						<key>value</key>
+						<string>{query}</string>
+						<key>words</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>field</key>
+						<string>kMDItemAlternateNames</string>
+						<key>not</key>
+						<false/>
+						<key>split</key>
+						<true/>
+						<key>value</key>
+						<string>{query}</string>
+						<key>words</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>field</key>
+						<string>kMDItemFinderComment</string>
+						<key>not</key>
+						<false/>
+						<key>split</key>
+						<true/>
+						<key>value</key>
+						<string>{query}</string>
+						<key>words</key>
+						<true/>
+					</dict>
+				</array>
+				<key>includesystem</key>
+				<false/>
+				<key>keyword</key>
+				<string>{var:toalfredsnippets_keyword}</string>
+				<key>limit</key>
+				<integer>0</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>scopes</key>
+				<array/>
+				<key>sortmode</key>
+				<integer>0</integer>
+				<key>subtext</key>
+				<string>Search CSV file to convert to Alfred snippet collection</string>
+				<key>title</key>
+				<string>CSV to Alfred Snippet Collection</string>
+				<key>types</key>
+				<array>
+					<string>public.comma-separated-values-text</string>
+				</array>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.filefilter</string>
+			<key>uid</key>
+			<string>9E795AD1-A932-44A4-A956-40CCAAED28CB</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string>{var:open_saved_file}</string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>5</integer>
+						<key>matchstring</key>
+						<string></string>
+						<key>outputlabel</key>
+						<string>Open File</string>
+						<key>uid</key>
+						<string>0ABF1CBC-1286-46C3-BCF9-801565E59441</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>Sound</string>
+				<key>hideelse</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>D6B3B49E-5412-4E65-B8E3-D62D5BC6C564</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string>{var:file_exists}</string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>6</integer>
+						<key>matchstring</key>
+						<string></string>
+						<key>outputlabel</key>
+						<string>Can Save</string>
+						<key>uid</key>
+						<string>645EB881-D79C-4295-AC53-2C40AC675F9D</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>File Exists</string>
+				<key>hideelse</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>9AF2605F-DA68-4461-A6FF-A914F0D82BD0</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{query}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>input_file</key>
+					<string>{query}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>5AF1A471-6EFF-4E14-876E-BD49C23C2B98</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<true/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>{query}</string>
+				<key>title</key>
+				<string>File Exists!</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>E6514383-F01C-419D-8AC5-BD0BFA3F0C2A</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>soundname</key>
+				<string>Glass</string>
+				<key>systemsound</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.playsound</string>
+			<key>uid</key>
+			<string>06715BDC-92C8-4E8C-A1B7-ED560B7C9953</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>acceptsmulti</key>
+				<integer>0</integer>
+				<key>filetypes</key>
+				<array>
+					<string>public.comma-separated-values-text</string>
+				</array>
+				<key>name</key>
+				<string>Convert to Snippet Collection</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.action</string>
+			<key>uid</key>
+			<string>7D7F733B-45AF-4640-B4FC-43AF53717735</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>soundname</key>
+				<string>Basso</string>
+				<key>systemsound</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.playsound</string>
+			<key>uid</key>
+			<string>4C2E0AF3-3C18-41AA-8454-BE9175FED034</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{var:out_file}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>B82EF9C0-0FA7-4A78-A96E-757B8D71BA1B</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>// Helpers
+function envVar(varName) {
+  return $.NSProcessInfo
+    .processInfo
+    .environment
+    .objectForKey(varName).js
+}
+
+function runCommand(...arguments) {
+  const task = $.NSTask.alloc.init
+
+  task.executableURL = $.NSURL.alloc.initFileURLWithPath("/usr/bin/env")
+  task.arguments = arguments
+  task.launchAndReturnError(false)
+
+  task.waitUntilExit
+}
+
+function readFile(path) {
+  const data = $.NSFileManager.defaultManager.contentsAtPath(path)
+  const string = $.NSString.alloc.initWithDataEncoding(data, $.NSUTF8StringEncoding).js
+  return string
+}
+
+// Main
+function run(argv) {
+  const snippetsFile = argv[0]
+  const fileManager = $.NSFileManager.defaultManager
+  const collectionName = $(envVar("input_file")).stringByDeletingPathExtension.lastPathComponent.js
+  const outDir = $("~/Desktop").stringByExpandingTildeInPath.js
+  const outFile = `${outDir}/${collectionName}.csv`
+  const tmpDir = fileManager.URLForDirectoryInDomainAppropriateForURLCreateError(
+    $.NSItemReplacementDirectory,
+    $.NSUserDomainMask,
+    outDir,
+    true,
+    undefined).path.js
+  const tmpDatabase = `${tmpDir}/${$.NSUUID.UUID.UUIDString.js}.sqlite3`
+
+  // Abort if output file exists
+  if (fileManager.fileExistsAtPath(outFile)) {
+    console.log(`File exists: ${outFile}`)
+
+    return JSON.stringify({ alfredworkflow: {
+      arg: outFile,
+      variables: { file_exists: true }
+    }})
+  }
+
+  // Extract zip
+  runCommand("/usr/bin/ditto", "-xk", snippetsFile, tmpDir)
+
+  // Merge JSONs
+  const jsonFiles = fileManager.contentsOfDirectoryAtURLIncludingPropertiesForKeysOptionsError(
+    $.NSURL.alloc.initFileURLWithPath(tmpDir),
+    undefined,
+    $.NSDirectoryEnumerationSkipsHiddenFiles,
+    undefined).js.map(p =&gt; p.path.js)
+
+  const mergedData = jsonFiles.map(file =&gt; {
+    const fullSnippet = JSON.parse(readFile(file))
+    const snippetContents = fullSnippet["alfredsnippet"]
+    delete snippetContents["uid"]
+    return snippetContents
+  })
+
+  // Create database
+  runCommand("/usr/bin/sqlite3", tmpDatabase,
+    "CREATE TABLE snippets ('name' TEXT, 'keyword' TEXT, 'snippet' TEXT)")
+
+  mergedData.forEach(snippetData =&gt; {
+    const nameString = snippetData["name"].replaceAll("'", "''")
+    const keywordString = snippetData["keyword"].replaceAll("'", "''")
+    const snippetString = snippetData["snippet"].replaceAll("'", "''")
+
+    runCommand('/usr/bin/sqlite3', tmpDatabase,
+      `INSERT INTO snippets (name, keyword, snippet) VALUES ('${nameString}', '${keywordString}', '${snippetString}')`)
+  })
+
+  // Return path to database
+  return JSON.stringify({ alfredworkflow: {
+    arg: tmpDatabase,
+    variables: { file_exists: false, out_file: outFile }
+  }})
+}</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>7</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>872D60B7-B853-4C8E-9F1E-07C18B9CCD68</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>/usr/bin/sqlite3 -csv "${1}" "SELECT ${csv_fields_order} FROM snippets" &gt; "${out_file}"
+
+echo "${out_file}"</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>11</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>4B91B3BB-FAC3-4A58-8EB5-6B4838AC1B79</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>acceptsmulti</key>
+				<integer>0</integer>
+				<key>filetypes</key>
+				<array>
+					<string>com.runningwithcrayons.alfred.snippets</string>
+				</array>
+				<key>name</key>
+				<string>Convert to CSV</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.action</string>
+			<key>uid</key>
+			<string>8CFBB2ED-D196-4AE6-B535-E5264C0A630D</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<true/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>{query}</string>
+				<key>title</key>
+				<string>Saved CSV Database</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>16BD427D-AAD0-4F16-BFEB-561DF2281206</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string>{var:file_exists}</string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>5</integer>
+						<key>matchstring</key>
+						<string></string>
+						<key>outputlabel</key>
+						<string>File Exists</string>
+						<key>uid</key>
+						<string>2889189F-2999-4493-A93A-B368623E2F22</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>Can Save</string>
+				<key>hideelse</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>DA8AFA7F-1098-4512-B08D-3F3DC9601ABF</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{query}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>input_file</key>
+					<string>{query}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>FAFED4F2-DC4A-4995-8049-56240B8CD95D</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>anchorfields</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>daterange</key>
+				<integer>0</integer>
+				<key>fields</key>
+				<array>
+					<dict>
+						<key>field</key>
+						<string>kMDItemDisplayName</string>
+						<key>not</key>
+						<false/>
+						<key>split</key>
+						<true/>
+						<key>value</key>
+						<string>{query}</string>
+						<key>words</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>field</key>
+						<string>kMDItemAlternateNames</string>
+						<key>not</key>
+						<false/>
+						<key>split</key>
+						<true/>
+						<key>value</key>
+						<string>{query}</string>
+						<key>words</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>field</key>
+						<string>kMDItemFinderComment</string>
+						<key>not</key>
+						<false/>
+						<key>split</key>
+						<true/>
+						<key>value</key>
+						<string>{query}</string>
+						<key>words</key>
+						<true/>
+					</dict>
+				</array>
+				<key>includesystem</key>
+				<false/>
+				<key>keyword</key>
+				<string>{var:tocsv_keyword}</string>
+				<key>limit</key>
+				<integer>0</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>scopes</key>
+				<array/>
+				<key>sortmode</key>
+				<integer>0</integer>
+				<key>subtext</key>
+				<string>Search Alfred Snippet Collection file to convert to CSV</string>
+				<key>title</key>
+				<string>Alfred Snippet Collection to CSV</string>
+				<key>types</key>
+				<array>
+					<string>com.runningwithcrayons.alfred.snippets</string>
+				</array>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.filefilter</string>
+			<key>uid</key>
+			<string>41809139-BDE4-451E-AC89-B8BB4B2F7105</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+	</array>
+	<key>readme</key>
+	<string>## Usage
+
+Convert CSV files to Alfred Snippet Collections via the [Universal Action](https://www.alfredapp.com/help/features/universal-actions/). The Snippet Collection will be saved to the Desktop and opened for import into Alfred if the option in set in the [Workflow’s Configuration](https://www.alfredapp.com/help/workflows/user-configuration/).
+
+![Universal Action to convert to Snippet Collection](images/about/uafromcsv.png)
+
+Converting from a Snippet Collection to CSV is also available.
+
+![Universal Action to convert to CSV](images/about/uafromcollection.png)
+
+Alternatively, search for CSV or Snippet Collection files via the `csvsnip` and `snipcsv` keywords.
+
+![Keyword to convert to Snippet Collection](images/about/keywordfromcsv.png)
+
+![Keyword to convert to CSV](images/about/keywordfromcollection.png)</string>
+	<key>uidata</key>
+	<dict>
+		<key>06715BDC-92C8-4E8C-A1B7-ED560B7C9953</key>
+		<dict>
+			<key>xpos</key>
+			<real>1245</real>
+			<key>ypos</key>
+			<real>195</real>
+		</dict>
+		<key>16BD427D-AAD0-4F16-BFEB-561DF2281206</key>
+		<dict>
+			<key>xpos</key>
+			<real>1055</real>
+			<key>ypos</key>
+			<real>370</real>
+		</dict>
+		<key>41809139-BDE4-451E-AC89-B8BB4B2F7105</key>
+		<dict>
+			<key>note</key>
+			<string>Alfred Snippets to CSV</string>
+			<key>xpos</key>
+			<real>65</real>
+			<key>ypos</key>
+			<real>520</real>
+		</dict>
+		<key>4A0A8180-B357-410D-839F-72B4ECC21BA8</key>
+		<dict>
+			<key>xpos</key>
+			<real>510</real>
+			<key>ypos</key>
+			<real>45</real>
+		</dict>
+		<key>4B91B3BB-FAC3-4A58-8EB5-6B4838AC1B79</key>
+		<dict>
+			<key>xpos</key>
+			<real>885</real>
+			<key>ypos</key>
+			<real>370</real>
+		</dict>
+		<key>4C2E0AF3-3C18-41AA-8454-BE9175FED034</key>
+		<dict>
+			<key>xpos</key>
+			<real>1055</real>
+			<key>ypos</key>
+			<real>195</real>
+		</dict>
+		<key>5AF1A471-6EFF-4E14-876E-BD49C23C2B98</key>
+		<dict>
+			<key>xpos</key>
+			<real>250</real>
+			<key>ypos</key>
+			<real>75</real>
+		</dict>
+		<key>7D7F733B-45AF-4640-B4FC-43AF53717735</key>
+		<dict>
+			<key>note</key>
+			<string>CSV to Alfred Snippets</string>
+			<key>xpos</key>
+			<real>65</real>
+			<key>ypos</key>
+			<real>195</real>
+		</dict>
+		<key>7E1EA541-5E8A-48C1-8FBA-FB2EA7C0122C</key>
+		<dict>
+			<key>xpos</key>
+			<real>1245</real>
+			<key>ypos</key>
+			<real>45</real>
+		</dict>
+		<key>872D60B7-B853-4C8E-9F1E-07C18B9CCD68</key>
+		<dict>
+			<key>xpos</key>
+			<real>330</real>
+			<key>ypos</key>
+			<real>370</real>
+		</dict>
+		<key>8CFBB2ED-D196-4AE6-B535-E5264C0A630D</key>
+		<dict>
+			<key>note</key>
+			<string>Alfred Snippets to CSV</string>
+			<key>xpos</key>
+			<real>65</real>
+			<key>ypos</key>
+			<real>370</real>
+		</dict>
+		<key>9AF2605F-DA68-4461-A6FF-A914F0D82BD0</key>
+		<dict>
+			<key>xpos</key>
+			<real>740</real>
+			<key>ypos</key>
+			<real>65</real>
+		</dict>
+		<key>9D3C78F8-ECE7-4A2E-A080-4F43CC73B4EA</key>
+		<dict>
+			<key>xpos</key>
+			<real>885</real>
+			<key>ypos</key>
+			<real>45</real>
+		</dict>
+		<key>9E795AD1-A932-44A4-A956-40CCAAED28CB</key>
+		<dict>
+			<key>note</key>
+			<string>CSV to Alfred Snippets</string>
+			<key>xpos</key>
+			<real>65</real>
+			<key>ypos</key>
+			<real>45</real>
+		</dict>
+		<key>B82EF9C0-0FA7-4A78-A96E-757B8D71BA1B</key>
+		<dict>
+			<key>xpos</key>
+			<real>770</real>
+			<key>ypos</key>
+			<real>225</real>
+		</dict>
+		<key>D6B3B49E-5412-4E65-B8E3-D62D5BC6C564</key>
+		<dict>
+			<key>xpos</key>
+			<real>1075</real>
+			<key>ypos</key>
+			<real>65</real>
+		</dict>
+		<key>DA8AFA7F-1098-4512-B08D-3F3DC9601ABF</key>
+		<dict>
+			<key>xpos</key>
+			<real>670</real>
+			<key>ypos</key>
+			<real>390</real>
+		</dict>
+		<key>E6514383-F01C-419D-8AC5-BD0BFA3F0C2A</key>
+		<dict>
+			<key>xpos</key>
+			<real>885</real>
+			<key>ypos</key>
+			<real>195</real>
+		</dict>
+		<key>EAA88D22-D7B5-4391-8B2C-C546254D1108</key>
+		<dict>
+			<key>xpos</key>
+			<real>330</real>
+			<key>ypos</key>
+			<real>45</real>
+		</dict>
+		<key>FAFED4F2-DC4A-4995-8049-56240B8CD95D</key>
+		<dict>
+			<key>xpos</key>
+			<real>250</real>
+			<key>ypos</key>
+			<real>400</real>
+		</dict>
+	</dict>
+	<key>userconfigurationconfig</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>default</key>
+				<string>csvsnip</string>
+				<key>placeholder</key>
+				<string></string>
+				<key>required</key>
+				<false/>
+				<key>trim</key>
+				<true/>
+			</dict>
+			<key>description</key>
+			<string></string>
+			<key>label</key>
+			<string>CSV Search Keyword</string>
+			<key>type</key>
+			<string>textfield</string>
+			<key>variable</key>
+			<string>toalfredsnippets_keyword</string>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>default</key>
+				<string>snipcsv</string>
+				<key>placeholder</key>
+				<string></string>
+				<key>required</key>
+				<false/>
+				<key>trim</key>
+				<true/>
+			</dict>
+			<key>description</key>
+			<string></string>
+			<key>label</key>
+			<string>Snippets Search Keyword</string>
+			<key>type</key>
+			<string>textfield</string>
+			<key>variable</key>
+			<string>tocsv_keyword</string>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>default</key>
+				<string>keyword,snippet,name</string>
+				<key>pairs</key>
+				<array>
+					<array>
+						<string>Keyword, Snippet, Name</string>
+						<string>keyword,snippet,name</string>
+					</array>
+					<array>
+						<string>Keyword, Name, Snippet</string>
+						<string>keyword,name,snippet</string>
+					</array>
+					<array>
+						<string>Name, Keyword, Snippet</string>
+						<string>name,keyword,snippet</string>
+					</array>
+					<array>
+						<string>Name, Snippet, Keyword</string>
+						<string>name,snippet,keyword</string>
+					</array>
+					<array>
+						<string>Snippet, Keyword, Name</string>
+						<string>snippet,keyword,name</string>
+					</array>
+					<array>
+						<string>Snippet, Name, Keyword</string>
+						<string>snippet,name,keyword</string>
+					</array>
+				</array>
+			</dict>
+			<key>description</key>
+			<string></string>
+			<key>label</key>
+			<string>CSV Fields Order</string>
+			<key>type</key>
+			<string>popupbutton</string>
+			<key>variable</key>
+			<string>csv_fields_order</string>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>default</key>
+				<true/>
+				<key>required</key>
+				<false/>
+				<key>text</key>
+				<string>Open snippets file after successful conversion</string>
+			</dict>
+			<key>description</key>
+			<string></string>
+			<key>label</key>
+			<string>Importing</string>
+			<key>type</key>
+			<string>checkbox</string>
+			<key>variable</key>
+			<string>open_saved_file</string>
+		</dict>
+	</array>
+	<key>version</key>
+	<string></string>
+	<key>webaddress</key>
+	<string>https://github.com/alfredapp/snippet-transformer-workflow/</string>
+</dict>
+</plist>
