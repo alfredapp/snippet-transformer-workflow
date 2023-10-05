@@ -293,7 +293,7 @@ function envVar(varName) {
 function runCommand(...arguments) {
   const task = $.NSTask.alloc.init
 
-  task.executableURL = $.NSURL.alloc.initFileURLWithPath("/usr/bin/env")
+  task.executableURL = $.NSURL.fileURLWithPath("/usr/bin/env")
   task.arguments = arguments
   task.launchAndReturnError(false)
 
@@ -301,10 +301,7 @@ function runCommand(...arguments) {
 }
 
 function writeFile(path, text) {
-  $.NSString
-    .alloc
-    .initWithUTF8String(text)
-    .writeToFileAtomicallyEncodingError(path, true, $.NSUTF8StringEncoding, undefined)
+  $(text).writeToFileAtomicallyEncodingError(path, true, $.NSUTF8StringEncoding, undefined)
 }
 
 // Main
@@ -699,7 +696,7 @@ function envVar(varName) {
 function runCommand(...arguments) {
   const task = $.NSTask.alloc.init
 
-  task.executableURL = $.NSURL.alloc.initFileURLWithPath("/usr/bin/env")
+  task.executableURL = $.NSURL.fileURLWithPath("/usr/bin/env")
   task.arguments = arguments
   task.launchAndReturnError(false)
 
@@ -707,9 +704,7 @@ function runCommand(...arguments) {
 }
 
 function readFile(path) {
-  const data = $.NSFileManager.defaultManager.contentsAtPath(path)
-  const string = $.NSString.alloc.initWithDataEncoding(data, $.NSUTF8StringEncoding).js
-  return string
+  return $.NSString.stringWithContentsOfFileEncodingError(path, $.NSUTF8StringEncoding, undefined).js
 }
 
 // Main
@@ -742,7 +737,7 @@ function run(argv) {
 
   // Merge JSONs
   const jsonFiles = fileManager.contentsOfDirectoryAtURLIncludingPropertiesForKeysOptionsError(
-    $.NSURL.alloc.initFileURLWithPath(tmpDir),
+    $.NSURL.fileURLWithPath(tmpDir),
     undefined,
     $.NSDirectoryEnumerationSkipsHiddenFiles,
     undefined).js.map(p =&gt; p.path.js)
