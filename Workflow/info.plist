@@ -740,7 +740,7 @@ function run(argv) {
     $.NSURL.fileURLWithPath(tmpDir),
     undefined,
     $.NSDirectoryEnumerationSkipsHiddenFiles,
-    undefined).js.map(p =&gt; p.path.js)
+    undefined).js.map(p =&gt; p.path.js).filter(p =&gt; p.endsWith(".json"))
 
   const mergedData = jsonFiles.map(file =&gt; {
     const fullSnippet = JSON.parse(readFile(file))
