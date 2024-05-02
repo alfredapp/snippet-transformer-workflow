@@ -19,6 +19,57 @@
 				<false/>
 			</dict>
 		</array>
+		<key>18A9AD98-B697-439A-AF01-73FB0B30E3A6</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>9C9AE975-F3CA-4E23-BBD6-E8F9DA38569A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>E699A5D4-4AC7-4362-B31A-F129FDFCFA26</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>A7C783C8-6503-4A64-85FC-843E252A1BCB</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>23A61FDC-E697-4029-94AD-61D801D9ADBC</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>5AF1A471-6EFF-4E14-876E-BD49C23C2B98</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>2B6C957F-5685-4588-81B6-E079FEB0FD28</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>BB524434-40A7-4F73-B553-D248B57A5FD2</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>41809139-BDE4-451E-AC89-B8BB4B2F7105</key>
 		<array>
 			<dict>
@@ -161,11 +212,50 @@
 				<false/>
 			</dict>
 		</array>
+		<key>A7C783C8-6503-4A64-85FC-843E252A1BCB</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>2B6C957F-5685-4588-81B6-E079FEB0FD28</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>AE88BC12-6417-41E1-BBD1-D08977DE1C83</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>18A9AD98-B697-439A-AF01-73FB0B30E3A6</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>B82EF9C0-0FA7-4A78-A96E-757B8D71BA1B</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
 				<string>E6514383-F01C-419D-8AC5-BD0BFA3F0C2A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>D0B45F47-9220-489A-968D-7FBA724BF917</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>AE88BC12-6417-41E1-BBD1-D08977DE1C83</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -267,13 +357,28 @@
 	<key>createdby</key>
 	<string>Vítor Galvão</string>
 	<key>description</key>
-	<string>Import and Export Alfred Snippet Collections to and from CSV</string>
+	<string>Import and Export Alfred Snippet Collections</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
 	<string>Snippet Transformer</string>
 	<key>objects</key>
 	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>availableviaurlhandler</key>
+				<false/>
+				<key>triggerid</key>
+				<string>csvtosnip</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.external</string>
+			<key>uid</key>
+			<string>23A61FDC-E697-4029-94AD-61D801D9ADBC</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
@@ -979,6 +1084,171 @@ echo "${out_file}"</string>
 			<key>version</key>
 			<integer>2</integer>
 		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string></string>
+				<key>title</key>
+				<string>No macOS Text Replacments Found</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>9C9AE975-F3CA-4E23-BBD6-E8F9DA38569A</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>{var:importtextreplacements_keyword}</string>
+				<key>skipuniversalaction</key>
+				<true/>
+				<key>subtext</key>
+				<string>Import macOS Text Replacements</string>
+				<key>text</key>
+				<string>Text Replacements to Alfred Snippet Collection</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>D0B45F47-9220-489A-968D-7FBA724BF917</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>/usr/bin/sqlite3 -csv ~/Library/KeyboardServices/TextReplacements.db 'SELECT ZSHORTCUT, ZSHORTCUT, ZPHRASE FROM ZTEXTREPLACEMENTENTRY WHERE ZWASDELETED = 0;'</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>11</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>AE88BC12-6417-41E1-BBD1-D08977DE1C83</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>externaltriggerid</key>
+				<string>csvtosnip</string>
+				<key>passinputasargument</key>
+				<true/>
+				<key>passvariables</key>
+				<true/>
+				<key>workflowbundleid</key>
+				<string>self</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.callexternaltrigger</string>
+			<key>uid</key>
+			<string>BB524434-40A7-4F73-B553-D248B57A5FD2</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>adduuid</key>
+				<false/>
+				<key>allowemptyfiles</key>
+				<true/>
+				<key>createintermediatefolders</key>
+				<true/>
+				<key>filename</key>
+				<string>/tmp/{const:alfred_workflow_bundleid}/macOS.csv</string>
+				<key>filetext</key>
+				<string>{query}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>relativepathmode</key>
+				<integer>0</integer>
+				<key>type</key>
+				<integer>1</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.writefile</string>
+			<key>uid</key>
+			<string>A7C783C8-6503-4A64-85FC-843E252A1BCB</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string></string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string></string>
+						<key>outputlabel</key>
+						<string>Nothing Found</string>
+						<key>uid</key>
+						<string>E699A5D4-4AC7-4362-B31A-F129FDFCFA26</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>Continue</string>
+				<key>hideelse</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>18A9AD98-B697-439A-AF01-73FB0B30E3A6</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>passthroughargument</key>
+				<true/>
+				<key>variables</key>
+				<dict>
+					<key>csv_fields_order</key>
+					<string>keyword,name,snippet</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>2B6C957F-5685-4588-81B6-E079FEB0FD28</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
 	</array>
 	<key>readme</key>
 	<string>## Usage
@@ -995,7 +1265,11 @@ Alternatively, search for CSV or Snippet Collection files via the `csvsnip` and 
 
 ![Keyword to convert to Snippet Collection](images/about/keywordfromcsv.png)
 
-![Keyword to convert to CSV](images/about/keywordfromcollection.png)</string>
+![Keyword to convert to CSV](images/about/keywordfromcollection.png)
+
+Import [macOS Text Replacements](https://support.apple.com/en-gb/guide/mac-help/mh35735/mac) as a new Alfred Snippet Collection via the `trimport` keyword.
+
+![Import Text Replacements](images/about/trimport.png)</string>
 	<key>uidata</key>
 	<dict>
 		<key>06715BDC-92C8-4E8C-A1B7-ED560B7C9953</key>
@@ -1003,14 +1277,35 @@ Alternatively, search for CSV or Snippet Collection files via the `csvsnip` and 
 			<key>xpos</key>
 			<real>1245</real>
 			<key>ypos</key>
-			<real>195</real>
+			<real>350</real>
 		</dict>
 		<key>16BD427D-AAD0-4F16-BFEB-561DF2281206</key>
 		<dict>
 			<key>xpos</key>
 			<real>1055</real>
 			<key>ypos</key>
-			<real>370</real>
+			<real>525</real>
+		</dict>
+		<key>18A9AD98-B697-439A-AF01-73FB0B30E3A6</key>
+		<dict>
+			<key>xpos</key>
+			<real>520</real>
+			<key>ypos</key>
+			<real>880</real>
+		</dict>
+		<key>23A61FDC-E697-4029-94AD-61D801D9ADBC</key>
+		<dict>
+			<key>xpos</key>
+			<real>65</real>
+			<key>ypos</key>
+			<real>70</real>
+		</dict>
+		<key>2B6C957F-5685-4588-81B6-E079FEB0FD28</key>
+		<dict>
+			<key>xpos</key>
+			<real>840</real>
+			<key>ypos</key>
+			<real>905</real>
 		</dict>
 		<key>41809139-BDE4-451E-AC89-B8BB4B2F7105</key>
 		<dict>
@@ -1019,35 +1314,35 @@ Alternatively, search for CSV or Snippet Collection files via the `csvsnip` and 
 			<key>xpos</key>
 			<real>65</real>
 			<key>ypos</key>
-			<real>520</real>
+			<real>675</real>
 		</dict>
 		<key>4A0A8180-B357-410D-839F-72B4ECC21BA8</key>
 		<dict>
 			<key>xpos</key>
 			<real>510</real>
 			<key>ypos</key>
-			<real>45</real>
+			<real>200</real>
 		</dict>
 		<key>4B91B3BB-FAC3-4A58-8EB5-6B4838AC1B79</key>
 		<dict>
 			<key>xpos</key>
 			<real>885</real>
 			<key>ypos</key>
-			<real>370</real>
+			<real>525</real>
 		</dict>
 		<key>4C2E0AF3-3C18-41AA-8454-BE9175FED034</key>
 		<dict>
 			<key>xpos</key>
 			<real>1055</real>
 			<key>ypos</key>
-			<real>195</real>
+			<real>350</real>
 		</dict>
 		<key>5AF1A471-6EFF-4E14-876E-BD49C23C2B98</key>
 		<dict>
 			<key>xpos</key>
 			<real>250</real>
 			<key>ypos</key>
-			<real>75</real>
+			<real>230</real>
 		</dict>
 		<key>7D7F733B-45AF-4640-B4FC-43AF53717735</key>
 		<dict>
@@ -1056,21 +1351,21 @@ Alternatively, search for CSV or Snippet Collection files via the `csvsnip` and 
 			<key>xpos</key>
 			<real>65</real>
 			<key>ypos</key>
-			<real>195</real>
+			<real>350</real>
 		</dict>
 		<key>7E1EA541-5E8A-48C1-8FBA-FB2EA7C0122C</key>
 		<dict>
 			<key>xpos</key>
 			<real>1245</real>
 			<key>ypos</key>
-			<real>45</real>
+			<real>200</real>
 		</dict>
 		<key>872D60B7-B853-4C8E-9F1E-07C18B9CCD68</key>
 		<dict>
 			<key>xpos</key>
 			<real>330</real>
 			<key>ypos</key>
-			<real>370</real>
+			<real>525</real>
 		</dict>
 		<key>8CFBB2ED-D196-4AE6-B535-E5264C0A630D</key>
 		<dict>
@@ -1079,21 +1374,28 @@ Alternatively, search for CSV or Snippet Collection files via the `csvsnip` and 
 			<key>xpos</key>
 			<real>65</real>
 			<key>ypos</key>
-			<real>370</real>
+			<real>525</real>
 		</dict>
 		<key>9AF2605F-DA68-4461-A6FF-A914F0D82BD0</key>
 		<dict>
 			<key>xpos</key>
 			<real>740</real>
 			<key>ypos</key>
-			<real>65</real>
+			<real>220</real>
+		</dict>
+		<key>9C9AE975-F3CA-4E23-BBD6-E8F9DA38569A</key>
+		<dict>
+			<key>xpos</key>
+			<real>670</real>
+			<key>ypos</key>
+			<real>740</real>
 		</dict>
 		<key>9D3C78F8-ECE7-4A2E-A080-4F43CC73B4EA</key>
 		<dict>
 			<key>xpos</key>
 			<real>885</real>
 			<key>ypos</key>
-			<real>45</real>
+			<real>200</real>
 		</dict>
 		<key>9E795AD1-A932-44A4-A956-40CCAAED28CB</key>
 		<dict>
@@ -1102,49 +1404,79 @@ Alternatively, search for CSV or Snippet Collection files via the `csvsnip` and 
 			<key>xpos</key>
 			<real>65</real>
 			<key>ypos</key>
-			<real>45</real>
+			<real>200</real>
+		</dict>
+		<key>A7C783C8-6503-4A64-85FC-843E252A1BCB</key>
+		<dict>
+			<key>xpos</key>
+			<real>670</real>
+			<key>ypos</key>
+			<real>875</real>
+		</dict>
+		<key>AE88BC12-6417-41E1-BBD1-D08977DE1C83</key>
+		<dict>
+			<key>xpos</key>
+			<real>330</real>
+			<key>ypos</key>
+			<real>860</real>
 		</dict>
 		<key>B82EF9C0-0FA7-4A78-A96E-757B8D71BA1B</key>
 		<dict>
 			<key>xpos</key>
 			<real>770</real>
 			<key>ypos</key>
-			<real>225</real>
+			<real>380</real>
+		</dict>
+		<key>BB524434-40A7-4F73-B553-D248B57A5FD2</key>
+		<dict>
+			<key>xpos</key>
+			<real>930</real>
+			<key>ypos</key>
+			<real>875</real>
+		</dict>
+		<key>D0B45F47-9220-489A-968D-7FBA724BF917</key>
+		<dict>
+			<key>note</key>
+			<string>Text Replacements to Alfred Snippets</string>
+			<key>xpos</key>
+			<real>65</real>
+			<key>ypos</key>
+			<real>860</real>
 		</dict>
 		<key>D6B3B49E-5412-4E65-B8E3-D62D5BC6C564</key>
 		<dict>
 			<key>xpos</key>
 			<real>1075</real>
 			<key>ypos</key>
-			<real>65</real>
+			<real>220</real>
 		</dict>
 		<key>DA8AFA7F-1098-4512-B08D-3F3DC9601ABF</key>
 		<dict>
 			<key>xpos</key>
 			<real>670</real>
 			<key>ypos</key>
-			<real>390</real>
+			<real>545</real>
 		</dict>
 		<key>E6514383-F01C-419D-8AC5-BD0BFA3F0C2A</key>
 		<dict>
 			<key>xpos</key>
 			<real>885</real>
 			<key>ypos</key>
-			<real>195</real>
+			<real>350</real>
 		</dict>
 		<key>EAA88D22-D7B5-4391-8B2C-C546254D1108</key>
 		<dict>
 			<key>xpos</key>
 			<real>330</real>
 			<key>ypos</key>
-			<real>45</real>
+			<real>200</real>
 		</dict>
 		<key>FAFED4F2-DC4A-4995-8049-56240B8CD95D</key>
 		<dict>
 			<key>xpos</key>
 			<real>250</real>
 			<key>ypos</key>
-			<real>400</real>
+			<real>555</real>
 		</dict>
 	</dict>
 	<key>userconfigurationconfig</key>
@@ -1190,6 +1522,27 @@ Alternatively, search for CSV or Snippet Collection files via the `csvsnip` and 
 			<string>textfield</string>
 			<key>variable</key>
 			<string>tocsv_keyword</string>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>default</key>
+				<string>trimport</string>
+				<key>placeholder</key>
+				<string></string>
+				<key>required</key>
+				<false/>
+				<key>trim</key>
+				<true/>
+			</dict>
+			<key>description</key>
+			<string></string>
+			<key>label</key>
+			<string>Text Replacements Keyword</string>
+			<key>type</key>
+			<string>textfield</string>
+			<key>variable</key>
+			<string>importtextreplacements_keyword</string>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -1253,6 +1606,8 @@ Alternatively, search for CSV or Snippet Collection files via the `csvsnip` and 
 			<string>open_saved_file</string>
 		</dict>
 	</array>
+	<key>variablesdontexport</key>
+	<array/>
 	<key>version</key>
 	<string>2023.2</string>
 	<key>webaddress</key>
