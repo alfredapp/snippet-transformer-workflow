@@ -1,6 +1,6 @@
 # <img src='Workflow/icon.png' width='45' align='center' alt='icon'> Snippet Transformer Alfred Workflow
 
-Import and Export Alfred Snippet Collections to and from CSV
+Import and Export Alfred Snippet Collections
 
 [⤓ Install on the Alfred Gallery](https://alfred.app/workflows/alfredapp/snippet-transformer)
 
@@ -19,3 +19,7 @@ Alternatively, search for CSV or Snippet Collection files via the `csvsnip` and 
 ![Keyword to convert to Snippet Collection](Workflow/images/about/keywordfromcsv.png)
 
 ![Keyword to convert to CSV](Workflow/images/about/keywordfromcollection.png)
+
+Import [macOS Text Replacements](https://support.apple.com/en-gb/guide/mac-help/mh35735/mac) as a new Alfred Snippet Collection via the `trimport` keyword.
+
+![Import Text Replacements](Workflow/images/about/trimport.png)
