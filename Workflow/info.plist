@@ -419,7 +419,7 @@ function run(argv) {
   const tmpDir = fileManager.URLForDirectoryInDomainAppropriateForURLCreateError(
     $.NSItemReplacementDirectory,
     $.NSUserDomainMask,
-    outDir,
+    $.NSURL.fileURLWithPath(outDir),
     true,
     undefined).path.js
 
@@ -822,7 +822,7 @@ function run(argv) {
   const tmpDir = fileManager.URLForDirectoryInDomainAppropriateForURLCreateError(
     $.NSItemReplacementDirectory,
     $.NSUserDomainMask,
-    outDir,
+    $.NSURL.fileURLWithPath(outDir),
     true,
     undefined).path.js
   const tmpDatabase = `${tmpDir}/${$.NSUUID.UUID.UUIDString.js}.sqlite3`
