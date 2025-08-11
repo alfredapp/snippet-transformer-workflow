@@ -1253,7 +1253,7 @@ echo "${out_file}"</string>
 	<key>readme</key>
 	<string>## Usage
 
-Convert CSV files to Alfred Snippet Collections via the [Universal Action](https://www.alfredapp.com/help/features/universal-actions/). The Snippet Collection will be saved to the Desktop and opened for import into Alfred if the option in set in the [Workflow’s Configuration](https://www.alfredapp.com/help/workflows/user-configuration/).
+Convert CSV files to Alfred Snippet Collections via the [Universal Action](https://www.alfredapp.com/help/features/universal-actions/). The Snippet Collection will be saved to the Desktop and opened for import into Alfred if the option is set in the [Workflow’s Configuration](https://www.alfredapp.com/help/workflows/user-configuration/).
 
 ![Universal Action to convert to Snippet Collection](images/about/uafromcsv.png)
 
@@ -1606,8 +1606,6 @@ Import [macOS Text Replacements](https://support.apple.com/en-gb/guide/mac-help/
 			<string>open_saved_file</string>
 		</dict>
 	</array>
-	<key>variablesdontexport</key>
-	<array/>
 	<key>version</key>
 	<string>2024.3</string>
 	<key>webaddress</key>
