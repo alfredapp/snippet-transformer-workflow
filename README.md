@@ -6,7 +6,7 @@ Import and Export Alfred Snippet Collections
 
 ## Usage
 
-Convert CSV files to Alfred Snippet Collections via the [Universal Action](https://www.alfredapp.com/help/features/universal-actions/). The Snippet Collection will be saved to the Desktop and opened for import into Alfred if the option in set in the [Workflow’s Configuration](https://www.alfredapp.com/help/workflows/user-configuration/).
+Convert CSV files to Alfred Snippet Collections via the [Universal Action](https://www.alfredapp.com/help/features/universal-actions/). The Snippet Collection will be saved to the Desktop and opened for import into Alfred if the option is set in the [Workflow’s Configuration](https://www.alfredapp.com/help/workflows/user-configuration/).
 
 ![Universal Action to convert to Snippet Collection](Workflow/images/about/uafromcsv.png)
 
